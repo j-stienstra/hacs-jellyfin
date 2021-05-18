@@ -1,0 +1,7 @@
+{
+    "name": "Jellyfin",
+    "content_in_root": false,
+    "render_readme": true,
+    "homeassistant": "2021.4",
+    "iot_class": "local_polling"
+  }
